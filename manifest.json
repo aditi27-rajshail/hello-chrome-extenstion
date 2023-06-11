@@ -1,0 +1,9 @@
+{
+  "manifest_version": 2,
+  "name": "Hello Extension",
+  "version": "1.0",
+  "description": "A simple Chrome Extension that pop us hello",
+  "browser_action": {
+    "default_popup": "popup.html"
+  }
+}
